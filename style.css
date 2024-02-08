@@ -62,6 +62,33 @@ body{
         height: auto;
     object-fit: cover;
    object-position: 0% 9%;
-    
-      
+     
 }
+
+/* Sección menú */
+
+.servicios {
+    text-decoration: none;
+    color: black;
+    margin: 0%;
+    background-color: white;
+    width: 100%;
+    clear: both;
+    content:'';
+    display: table;
+    padding: 45px 85px;
+}
+
+.nosotros {
+    text-decoration: none;
+    color: black;
+    margin: 0%;
+    background-color: white;
+    width: 100%;
+    clear: both;
+    content:'';
+    display: table;
+    padding: 20px 40px;
+}
+
+
